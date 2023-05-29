@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go/security v1.14.1
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
-	github.com/aws/aws-sdk-go v1.44.259 // indirect
+	github.com/aws/aws-sdk-go v1.44.267 // indirect
 	github.com/dgraph-io/ristretto v0.1.0 // indirect
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.4.0
@@ -19,7 +19,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
-	github.com/googleapis/gax-go/v2 v2.8.0
+	github.com/googleapis/gax-go/v2 v2.9.0
 	github.com/hashicorp/vault/api v1.9.1
 	github.com/hashicorp/vault/api/auth/approle v0.4.0
 	github.com/hashicorp/vault/api/auth/kubernetes v0.4.0
@@ -37,7 +37,7 @@ require (
 	github.com/urfave/cli v1.22.13
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	go.step.sm/cli-utils v0.7.6
-	go.step.sm/crypto v0.30.0
+	go.step.sm/crypto v0.31.0
 	go.step.sm/linkedca v0.19.1
 	golang.org/x/crypto v0.9.0
 	golang.org/x/net v0.10.0
