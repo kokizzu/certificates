@@ -29,7 +29,7 @@ require (
 	github.com/newrelic/go-agent/v3 v3.21.1
 	github.com/pkg/errors v0.9.1
 	github.com/rs/xid v1.5.0
-	github.com/sirupsen/logrus v1.9.2
+	github.com/sirupsen/logrus v1.9.3
 	github.com/slackhq/nebula v1.7.1
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/nosql v0.6.0
