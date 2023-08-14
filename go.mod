@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.313 // indirect
 	github.com/dgraph-io/ristretto v0.1.0 // indirect
 	github.com/fatih/color v1.9.0 // indirect
-	github.com/fxamacker/cbor/v2 v2.4.0
+	github.com/fxamacker/cbor/v2 v2.5.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-piv/piv-go v1.11.0 // indirect
