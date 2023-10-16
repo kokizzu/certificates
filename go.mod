@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	cloud.google.com/go v0.110.7 // indirect
-	cloud.google.com/go/longrunning v0.5.1
+	cloud.google.com/go/longrunning v0.5.2
 	cloud.google.com/go/security v1.15.1
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
@@ -40,7 +40,7 @@ require (
 	go.step.sm/crypto v0.35.1
 	go.step.sm/linkedca v0.20.1
 	golang.org/x/crypto v0.14.0
-	golang.org/x/net v0.16.0
+	golang.org/x/net v0.17.0
 	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	google.golang.org/api v0.145.0
