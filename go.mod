@@ -38,9 +38,9 @@ require (
 	go.step.sm/cli-utils v0.8.0
 	go.step.sm/crypto v0.42.1
 	go.step.sm/linkedca v0.20.1
-	golang.org/x/crypto v0.18.0
+	golang.org/x/crypto v0.19.0
 	golang.org/x/net v0.20.0
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/api v0.163.0
 	google.golang.org/genproto v0.0.0-20240116215550-a9fa1716bcac // indirect
