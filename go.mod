@@ -3,8 +3,8 @@ module github.com/smallstep/certificates
 go 1.18
 
 require (
-	cloud.google.com/go v0.111.0 // indirect
-	cloud.google.com/go/longrunning v0.5.4
+	cloud.google.com/go v0.112.0 // indirect
+	cloud.google.com/go/longrunning v0.5.5
 	cloud.google.com/go/security v1.15.5
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
