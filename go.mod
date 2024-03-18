@@ -9,7 +9,6 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
 	github.com/dgraph-io/ristretto v0.1.0 // indirect
-	github.com/fatih/color v1.9.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.6.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-kit/kit v0.10.0 // indirect
@@ -19,11 +18,11 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
 	github.com/googleapis/gax-go/v2 v2.12.2
-	github.com/hashicorp/vault/api v1.12.0
+	github.com/hashicorp/vault/api v1.12.1
 	github.com/hashicorp/vault/api/auth/approle v0.6.0
 	github.com/hashicorp/vault/api/auth/kubernetes v0.6.0
-	github.com/mattn/go-colorable v0.1.8 // indirect
-	github.com/mattn/go-isatty v0.0.13 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/micromdm/scep/v2 v2.2.0
 	github.com/newrelic/go-agent/v3 v3.30.0
 	github.com/pkg/errors v0.9.1
