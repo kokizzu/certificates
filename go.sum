@@ -650,8 +650,8 @@ go.opentelemetry.io/otel/trace v1.24.0 h1:CsKnnL4dUAr/0llH9FKuc698G04IrpWV0MQA/Y
 go.opentelemetry.io/otel/trace v1.24.0/go.mod h1:HPc3Xr/cOApsBI154IU0OI0HJexz+aw5uPdbs3UCjNU=
 go.step.sm/cli-utils v0.9.0 h1:55jYcsQbnArNqepZyAwcato6Zy2MoZDRkWW+jF+aPfQ=
 go.step.sm/cli-utils v0.9.0/go.mod h1:Y/CRoWl1FVR9j+7PnAewufAwKmBOTzR6l9+7EYGAnp8=
-go.step.sm/crypto v0.44.6 h1:vQg8ujce7fNXDO8EWdriSz+ZSJpYnNh22QrFtRjdyoY=
-go.step.sm/crypto v0.44.6/go.mod h1:oKRO4jaf2MaCohJDN+/8ShImkvIgUKfJxxy87gqsnXs=
+go.step.sm/crypto v0.44.8 h1:jDSHL6FdB1UTA0d56ECNx9XtLVkewzeg38Vy3HWB3N8=
+go.step.sm/crypto v0.44.8/go.mod h1:QEmu4T9YewrDuaJnrV1I0zWZ15aJ/mqRUfL5w3R2WgU=
 go.step.sm/linkedca v0.20.1 h1:bHDn1+UG1NgRrERkWbbCiAIvv4lD5NOFaswPDTyO5vU=
 go.step.sm/linkedca v0.20.1/go.mod h1:Vaq4+Umtjh7DLFI1KuIxeo598vfBzgSYZUjgVJ7Syxw=
 go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
@@ -836,8 +836,8 @@ golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8T
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 google.golang.org/api v0.3.1/go.mod h1:6wY9I6uQWHQ8EM57III9mq/AjF+i8G65rmVagqKMtkk=
-google.golang.org/api v0.175.0 h1:9bMDh10V9cBuU8N45Wlc3cKkItfqMRV0Fi8UscLEtbY=
-google.golang.org/api v0.175.0/go.mod h1:Rra+ltKu14pps/4xTycZfobMgLpbosoaaL7c+SEMrO8=
+google.golang.org/api v0.176.0 h1:dHj1/yv5Dm/eQTXiP9hNCRT3xzJHWXeNdRq29XbMxoE=
+google.golang.org/api v0.176.0/go.mod h1:Rra+ltKu14pps/4xTycZfobMgLpbosoaaL7c+SEMrO8=
 google.golang.org/appengine v1.1.0/go.mod h1:EbEs0AVv82hx2wNQdGPgUI5lhzA/G0D9YwlJXL52JkM=
 google.golang.org/appengine v1.2.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=
 google.golang.org/appengine v1.4.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7/EB5XEv4=
