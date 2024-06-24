@@ -17,7 +17,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
-	github.com/googleapis/gax-go/v2 v2.12.4
+	github.com/googleapis/gax-go/v2 v2.12.5
 	github.com/hashicorp/vault/api v1.14.0
 	github.com/hashicorp/vault/api/auth/approle v0.7.0
 	github.com/hashicorp/vault/api/auth/kubernetes v0.7.0
@@ -149,8 +149,8 @@ require (
 	golang.org/x/oauth2 v0.21.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240528184218-531527333157 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240604185151-ef581f913117 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240610135401-a8a62080eff3 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240610135401-a8a62080eff3 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
