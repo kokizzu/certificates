@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	cloud.google.com/go v0.115.0 // indirect
-	cloud.google.com/go/longrunning v0.5.8
+	cloud.google.com/go/longrunning v0.5.9
 	cloud.google.com/go/security v1.17.0
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
@@ -41,19 +41,19 @@ require (
 	golang.org/x/net v0.26.0
 	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	google.golang.org/api v0.186.0
-	google.golang.org/genproto v0.0.0-20240617180043-68d350f18fd4 // indirect
+	google.golang.org/api v0.187.0
+	google.golang.org/genproto v0.0.0-20240624140628-dc46fd24d27d // indirect
 	google.golang.org/grpc v1.64.0
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
 require (
-	cloud.google.com/go/auth v0.6.0 // indirect
+	cloud.google.com/go/auth v0.6.1 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.2 // indirect
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	cloud.google.com/go/iam v1.1.8 // indirect
-	cloud.google.com/go/kms v1.17.1 // indirect
+	cloud.google.com/go/kms v1.18.0 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.12.0 // indirect
@@ -146,7 +146,7 @@ require (
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240617180043-68d350f18fd4 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240617180043-68d350f18fd4 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240624140628-dc46fd24d27d // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
