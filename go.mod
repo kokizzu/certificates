@@ -5,7 +5,7 @@ go 1.18
 require (
 	cloud.google.com/go v0.115.1 // indirect
 	cloud.google.com/go/longrunning v0.6.0
-	cloud.google.com/go/security v1.18.0
+	cloud.google.com/go/security v1.18.1
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
 	github.com/dgraph-io/ristretto v0.1.0 // indirect
@@ -145,7 +145,7 @@ require (
 	golang.org/x/oauth2 v0.22.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/text v0.17.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240827150818-7e3bb234dfed // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240903143218-8af14fe29dc1 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240903143218-8af14fe29dc1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
