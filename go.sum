@@ -316,8 +316,8 @@ github.com/hashicorp/vault/api v1.15.0 h1:O24FYQCWwhwKnF7CuSqP30S51rTV7vz1iACXE/
 github.com/hashicorp/vault/api v1.15.0/go.mod h1:+5YTO09JGn0u+b6ySD/LLVf8WkJCPLAL2Vkmrn2+CM8=
 github.com/hashicorp/vault/api/auth/approle v0.7.0 h1:R5IRVuFA5JSdG3UdGVcGysi0StrL1lPmyJnrawiV0Ss=
 github.com/hashicorp/vault/api/auth/approle v0.7.0/go.mod h1:B+WaC6VR+aSXiUxykpaPUoFiiZAhic53tDLbGjWZmRA=
-github.com/hashicorp/vault/api/auth/kubernetes v0.7.0 h1:pHCbeeyD6E5KmMMCc9vwwZZ5OVlM6yFayxFHWodiOUU=
-github.com/hashicorp/vault/api/auth/kubernetes v0.7.0/go.mod h1:Eey0x0X2g+b2LYWgBrQFyf5W0fp+Y1HGrEckP8Q0wns=
+github.com/hashicorp/vault/api/auth/kubernetes v0.8.0 h1:6jPcORq7OHwf+MCbaaUmiBvMhETAaZ7+i97WfZtF5kc=
+github.com/hashicorp/vault/api/auth/kubernetes v0.8.0/go.mod h1:nfl5sRUUork0ZSfV3xf+pgAFQSD5kSkL0k9axg523DM=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
 github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=

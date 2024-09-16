@@ -20,7 +20,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.13.0
 	github.com/hashicorp/vault/api v1.15.0
 	github.com/hashicorp/vault/api/auth/approle v0.7.0
-	github.com/hashicorp/vault/api/auth/kubernetes v0.7.0
+	github.com/hashicorp/vault/api/auth/kubernetes v0.8.0
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/micromdm/scep/v2 v2.2.0
