@@ -37,7 +37,7 @@ require (
 	go.step.sm/crypto v0.54.0
 	go.step.sm/linkedca v0.22.1
 	golang.org/x/crypto v0.29.0
-	golang.org/x/net v0.30.0
+	golang.org/x/net v0.31.0
 	golang.org/x/sys v0.27.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	google.golang.org/api v0.204.0
