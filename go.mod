@@ -43,7 +43,7 @@ require (
 	google.golang.org/api v0.217.0
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
 	google.golang.org/grpc v1.69.4
-	google.golang.org/protobuf v1.36.3
+	google.golang.org/protobuf v1.36.4
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
