@@ -3,8 +3,8 @@ module github.com/smallstep/certificates
 go 1.18
 
 require (
-	cloud.google.com/go v0.116.0 // indirect
-	cloud.google.com/go/longrunning v0.6.2
+	cloud.google.com/go v0.118.2 // indirect
+	cloud.google.com/go/longrunning v0.6.4
 	cloud.google.com/go/security v1.18.3
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
@@ -33,14 +33,14 @@ require (
 	github.com/urfave/cli v1.22.16
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	go.step.sm/cli-utils v0.9.0
-	go.step.sm/crypto v0.59.0
+	go.step.sm/crypto v0.59.1
 	go.step.sm/linkedca v0.22.1
 	golang.org/x/crypto v0.35.0
 	golang.org/x/net v0.35.0
 	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/time v0.10.0 // indirect
 	google.golang.org/api v0.224.0
-	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
+	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4 // indirect
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
 	gopkg.in/square/go-jose.v2 v2.6.0
@@ -50,8 +50,8 @@ require (
 	cloud.google.com/go/auth v0.15.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.7 // indirect
 	cloud.google.com/go/compute/metadata v0.6.0 // indirect
-	cloud.google.com/go/iam v1.2.2 // indirect
-	cloud.google.com/go/kms v1.20.5 // indirect
+	cloud.google.com/go/iam v1.4.0 // indirect
+	cloud.google.com/go/kms v1.21.0 // indirect
 	dario.cat/mergo v1.0.1 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
@@ -141,7 +141,7 @@ require (
 	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20250219182151-9fdb1cabc7b2 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250227231956-55c901821b1e // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
