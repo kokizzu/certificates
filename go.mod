@@ -1,10 +1,11 @@
 module github.com/smallstep/certificates
 
 go 1.18
+toolchain go1.24.1
 
 require (
 	cloud.google.com/go v0.118.3 // indirect
-	cloud.google.com/go/longrunning v0.6.5
+	cloud.google.com/go/longrunning v0.6.6
 	cloud.google.com/go/security v1.18.4
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
@@ -142,7 +143,7 @@ require (
 	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250227231956-55c901821b1e // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
