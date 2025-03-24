@@ -27,7 +27,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rs/xid v1.6.0
 	github.com/sirupsen/logrus v1.9.3
-	github.com/slackhq/nebula v1.9.3
+	github.com/slackhq/nebula v1.9.5
 	github.com/smallstep/assert v0.0.0-20200723003110-82e2b9b3b262
 	github.com/smallstep/nosql v0.7.0
 	github.com/stretchr/testify v1.10.0
