@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	cloud.google.com/go v0.120.0 // indirect
-	cloud.google.com/go/longrunning v0.6.6
+	cloud.google.com/go/longrunning v0.6.7
 	cloud.google.com/go/security v1.18.4
 	github.com/Masterminds/sprig/v3 v3.3.0
 	github.com/ThalesIgnite/crypto11 v1.2.5 // indirect
