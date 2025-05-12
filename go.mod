@@ -1,6 +1,7 @@
 module github.com/smallstep/certificates
 
-go 1.18
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -42,7 +43,7 @@ require (
 	golang.org/x/time v0.11.0 // indirect
 	google.golang.org/api v0.227.0
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb // indirect
-	google.golang.org/grpc v1.71.0
+	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
@@ -90,7 +91,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.4 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.1 // indirect
+	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-piv/piv-go/v2 v2.3.0 // indirect
