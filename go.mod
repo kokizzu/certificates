@@ -41,7 +41,7 @@ require (
 	golang.org/x/net v0.41.0
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
-	google.golang.org/api v0.237.0
+	google.golang.org/api v0.238.0
 	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2 // indirect
 	google.golang.org/grpc v1.73.0
 	google.golang.org/protobuf v1.36.6
